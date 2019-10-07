@@ -1,0 +1,98 @@
+
+.navbar-dark{
+background-color: black
+}
+
+/*------------------------------footer-------------------------------------------*/
+.footer
+{
+	left: 0;
+    bottom: 0;
+    width: 100%;
+	margin-top: 120px;
+	padding-top: 20px;
+	padding-bottom: 100px;
+	background-color: lightblue;
+	color: darkblue;
+}
+.footer-logo
+{
+	width: 150px;
+	margin-top: 25px;
+	margin-bottom:15px;
+	
+}
+#footer h1
+{
+	color: black;
+	font-size: 15px;
+	text-align: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+} 
+#footer h1::after
+{
+	content: '';
+	background: lightred;
+	display: block;
+	height: 3px;
+	width: 150px;
+	margin-left: 0px; 
+	margin-top: 20px;
+}
+#footer p
+{
+	font-size: 12px;
+	text-align: left;
+} 
+#footer .city
+{
+	margin-left: 37px;
+} 
+#footer .row .fa
+{
+	padding-right:20px;
+	font-size: 15px;
+} 
+#footer hr
+{
+	margin-top:10px;
+	border-width: 1.5px;
+} 
+#footer .fa-users
+{
+	color: black;
+	font-size: 17px;
+} 
+
+#footer .copyright
+{
+	margin-bottom: -80px;
+	text-align: center;
+	font-size: 15px;
+} 
+.fa-home
+{
+	color: black;
+}
+.fa-envelope
+{
+	color: blue;
+}
+.fa-phone-square
+{
+	color: green;
+}
+.fa-youtube
+{
+	color: red;
+}
+.fa-facebook-square
+{
+	color: dodgerblue;
+}
+
+.fa-twitter-square
+{
+	color: deepskyblue;
+}
